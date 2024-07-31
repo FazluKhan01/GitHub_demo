@@ -1,4 +1,4 @@
 # GitHub_demo
 This is my first Git Repository.
 <br>
-Author:- Fazlurraahman Khan.
+Author:- Fazlurrahman Khan.
